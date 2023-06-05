@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #8c87c0;
+   background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #201976;
+}
+form{
+    width: 400px;
+    background-color: rgb(73, 66, 104);
+    padding: 30px;
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+    
+}
+div{
+    text-align: center;
+    color: #fff;
+
+}
+div input{
+    align-items: center;
+}
